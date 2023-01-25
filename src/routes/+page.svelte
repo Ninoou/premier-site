@@ -1,5 +1,6 @@
 <script>
 	import logo from '$lib/images/logo.png'
+	import Nael_logo from '$lib/images/Coding club - troll smiley.png'
 </script>
 
 <section>
@@ -12,7 +13,7 @@
 	<li>ZeMadCoder</li>
 	<li>Yllojoy2</li>
 	<li>Azert9000</li>
-	<li>Ninoou</li>
+	<li><img alt="logo error" width="35px" src={Nael_logo}/> Ninoou</li>
 	<li>AliZarrade</li>
 	<li>Majdx7</li>
 	</ul>
